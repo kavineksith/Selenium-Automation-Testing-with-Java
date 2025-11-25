@@ -22,7 +22,7 @@
         <selenium.version>4.15.0</selenium.version>
         <testng.version>7.8.0</testng.version>
         <junit.version>5.10.1</junit.version>
-        <webdrivermanager.version>5.6.2</webdrivermanager.version>
+        <webdrivermanager.version>6.1.0</webdrivermanager.version>
         <surefire.version>3.2.2</surefire.version>
         <compiler.plugin.version>3.11.0</compiler.plugin.version>
     </properties>
